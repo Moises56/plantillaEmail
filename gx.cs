@@ -67,4 +67,4 @@ gerenciarecaudacion@mail2.amdc.hn
 Detalles del usuario
 Nombre para mostrar: Gerencia Recaudación
 Nombre de usuario: Gerenciarecaudacion@mail2.amdc.hn
-Contraseña: Woj46033
+Contraseña:
