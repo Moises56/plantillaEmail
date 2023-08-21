@@ -59,7 +59,7 @@ endFor
 &SMTPSession.Authentication = 1
 &SMTPSession.Secure = 1
 &SMTPSession.UserName = 'linea100.app@amdc.hn'
-&SMTPSession.Password = 'Appcorreo2023*'
+&SMTPSession.Password = 'pass*'
 &SMTPSession.Login()
 
 gerenciarecaudacion@mail2.amdc.hn
